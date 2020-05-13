@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace BuiVuTruong_2001170208_BTVN_Buoi1
@@ -36,11 +30,6 @@ namespace BuiVuTruong_2001170208_BTVN_Buoi1
                     banCo[i, j] = btn;
                 }
             }
-
-            //them
-            int a = 5;
-            int b = 100 + a;
-            MessageBox.Show("b: " + b);
         }
 
         private Button createButton(int x, int y)
