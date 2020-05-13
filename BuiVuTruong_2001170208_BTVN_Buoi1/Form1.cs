@@ -36,6 +36,11 @@ namespace BuiVuTruong_2001170208_BTVN_Buoi1
                     banCo[i, j] = btn;
                 }
             }
+
+            //them
+            int a = 5;
+            int b = 100 + a;
+            MessageBox.Show("b: " + b);
         }
 
         private Button createButton(int x, int y)

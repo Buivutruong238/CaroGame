@@ -15,3 +15,13 @@ D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug
 D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csproj.GenerateResource.Cache
 D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
 D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe.config
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csprojAssemblyReference.cache
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.Form1.resources
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.Properties.Resources.resources
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csproj.GenerateResource.cache
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csproj.CoreCompileInputs.cache
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
