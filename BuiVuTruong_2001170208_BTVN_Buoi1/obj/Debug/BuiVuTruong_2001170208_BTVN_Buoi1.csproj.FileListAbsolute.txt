@@ -25,3 +25,5 @@ C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN
 C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csproj.CoreCompileInputs.cache
 C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
 C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.CaroGame.resources
+C:\Users\ccthe\Desktop\PM & Ứng dụng thông minh\BuiVuTruong_2001170208_BTVN_Buoi1\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.TrucXanhGame.resources

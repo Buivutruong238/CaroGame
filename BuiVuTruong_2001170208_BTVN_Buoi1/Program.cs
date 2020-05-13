@@ -16,7 +16,9 @@ namespace BuiVuTruong_2001170208_BTVN_Buoi1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
+            Application.Run(new CaroGame());
+            //Application.Run(new TrucXanhGame());
         }
     }
 }
