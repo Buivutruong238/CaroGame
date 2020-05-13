@@ -1,1 +1,17 @@
 D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe.config
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\mscorlib.dll
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\System.Net.Http.dll
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\System.Net.Http.xml
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\normidna.nlp
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\normnfc.nlp
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\normnfd.nlp
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\normnfkc.nlp
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\bin\Debug\normnfkd.nlp
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.Form1.resources
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.Properties.Resources.resources
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.csproj.GenerateResource.Cache
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.exe
+D:\Project\C#\[Git]TruongVu\CaroGame\BuiVuTruong_2001170208_BTVN_Buoi1\obj\Debug\BuiVuTruong_2001170208_BTVN_Buoi1.pdb
