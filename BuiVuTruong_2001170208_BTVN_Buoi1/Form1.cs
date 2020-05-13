@@ -20,7 +20,7 @@ namespace BuiVuTruong_2001170208_BTVN_Buoi1
         private void addControls()
         {
             Label lbl = new Label();
-
+            MessageBox.Show("123");
         }
 
     }
